@@ -246,7 +246,7 @@ Benefícios:
 ### Clonar o Repositório
 
 ```bash
-git clone https://github.com/JessicaVieiraKah/DeteccaodeAnomaliasemTransacoesFinanceiras.git
+git clone https://github.com/JessicaVieiraKah/Detec-odeAnomaliasemTransacoesFinanceiras
 ```
 
 ### Entrar na Pasta
